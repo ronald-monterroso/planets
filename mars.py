@@ -9,7 +9,7 @@ moons = 2
 if colour == "red"
     print("Good, my favourite colour!")
 else
-    print("Colour is irrevelant.")
+    print("Colour is not irrevelant.")
 
-
+ 
 
