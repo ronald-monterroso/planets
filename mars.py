@@ -11,5 +11,6 @@ if colour == "red"
 else
     print("Colour is not irrevelant.")
 
+print("moons: ", moons)
  
 
