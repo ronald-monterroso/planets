@@ -12,5 +12,6 @@ else
     print("Colour is not irrevelant.")
 
 print("moons: ", moons)
+print("temperature: ",temperature)
  
 
