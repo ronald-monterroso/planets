@@ -6,4 +6,10 @@ temperature = -60
 humidity = 80
 moons = 2
 
+if colour == "red"
+    print("Good, my favourite colour!")
+else
+    print("Colour is irrevelant.")
+
+
 
